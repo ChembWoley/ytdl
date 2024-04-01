@@ -14,7 +14,7 @@ pip install -r requirements.txt
 `
 in the main folder, then run
 `
-pyinstaller ytdl.py
+pyinstaller ytdl.py --onefile
 `.
 
 The new executable will be built in `dist/ytdl`'.
